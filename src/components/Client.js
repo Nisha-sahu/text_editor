@@ -10,5 +10,4 @@ function Client({username}) {
     </div>
   );
 }
-
 export default Client;
